@@ -17,7 +17,7 @@ router.get('/text', Text.getText)
 
 router.get('/', function (req, res) {
     console.log("主页 GET 请求");
-    res.send('Hello GET');
+    res.send('测试第一次构建');
 });
 
 module.exports = router;
