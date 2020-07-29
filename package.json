@@ -1,0 +1,33 @@
+{
+  "name": "api-wx-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-0": "^6.24.1",
+    "babel-register": "^6.26.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1",
+    "formidable": "^1.2.1",
+    "loadash": "^1.0.0",
+    "log4js": "^5.2.2",
+    "moment": "^2.24.0",
+    "mongoose": "^5.7.4",
+    "multer": "^1.4.2",
+    "querystring": "^0.2.0",
+    "shortid": "^2.2.15",
+    "tinify": "^1.6.0-beta.2",
+    "validator": "^11.1.0"
+  }
+}
